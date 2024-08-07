@@ -1,4 +1,3 @@
-API Endpoint
 The endpoint to be tested is: https://v6.exchangerate-api.com/v6/1fc80820c72b0163bc9c7536/latest/USD
 
 Questions
